@@ -1,0 +1,22 @@
+                                                                               EBS
+Amazon elastic block storage provides persistenet block storage volume for use with amazon EC2 instanc in the AWS cloud.
+                                It has five types
+                                           1.general purpose SSD
+                                           2. provisional IOPS
+                                           3.through put optimaized HDD
+                                           4.cold HDD
+                                           5. magnetic.
+                                                                               ENI  ( Elastic network interface)
+
+It is used for basic networking,perhaps u need a separate management network to ur production network (or) separate logging 
+logging network and u need to do this low cost.I n this scinerio u ans use multipul number of ENI for each network.
+
+                                                                             EN  (Enhanced networking) 
+
+When u speed the internet from 10 gbps to 100 gpbs u can use this for better enhancing.
+
+
+                                                                            EFA (Elastic fabric adaptor)
+When u need to accelerate HPC (high performence computing) and machine learning applications (or) u need to do on OS by- pass.
+
+    
